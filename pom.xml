@@ -17,7 +17,7 @@
         <java.level>8</java.level>
     </properties>
     <name>Branch-Health-Metric-Plugin</name>
-    <description>Health-Metric for Multibranch-Plugin with selectible Branch</description>
+    <description>Folder-Health-Metric for Multibranch-Plugin with selectable Branch</description>
     <licenses>
         <license>
             <name>MIT License</name>
